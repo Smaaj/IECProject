@@ -90,7 +90,7 @@ textarea:focus {
 
 nav {
   height: 72px;
-  background: #202125;
+  background: #f7f8f0;
   width: 100%;
   margin: 0;
   position: fixed;
@@ -105,7 +105,7 @@ nav {
 
 nav a {
   padding: 0 32px;
-  color: #eee;
+  color: rgb(7, 6, 6);
   transition: 0.4s;
 }
 
