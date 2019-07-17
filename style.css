@@ -142,7 +142,7 @@ textarea:focus {
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
+ .dot:hover {
   background-color: #717171;
 }
 
@@ -248,6 +248,8 @@ nav ul {
   display: none;
   align-items: center;
 }
+
+
 
 /* Search Icon */
 
